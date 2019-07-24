@@ -46,7 +46,7 @@ The key was realizing that I over all these years, I was focusing on **exactly t
 
 It's an aphorism in Systems Thinking that people often know which lever to push to have the biggest impact. The problem is that they tend to want to push that lever very hard *in the wrong direction*.
 
-`What was missing in the systems I tried wasn't more *consistency*, it was more *flexibility*.`
+{{% hltext %}}What was missing in the systems I tried wasn't more *consistency*, it was more *flexibility*.{{% /hltext %}}
 
 In every other system I'd tried, the only way to change my mind was by admitting defeat and starting over, or by abandoning the system altogether. In other words, to change you have to go through a system failure : either **break a streak** or **give up on the habit**.
 
@@ -64,4 +64,4 @@ Not necessarily. With two simple changes, we can have both.
 
 ### Step 1 : Introduce a Delay
 
-`To have both flexibility and consistency, simply introduce a *delay* between the *decision* to change and the *act* of changing.`
+{{% hltext %}}To have both flexibility and consistency, simply introduce a *delay* between the *decision* to change and the *act* of changing.{{% /hltext %}}
