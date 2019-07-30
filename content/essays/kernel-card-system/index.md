@@ -1,9 +1,6 @@
 ---
 title: "A Habit System for Consistency & Flexibility"
 date: 2019-07-18T09:06:12-04:00
-blackfriday:
-  extensions:
-  - footnotes
 draft: true
 ---
 # Backstory
@@ -48,7 +45,10 @@ The key was realizing that I over all these years, I was focusing on **exactly t
 
 ## The Complement to Consistency
 
-In Systems Thinking it's said that people often know which lever would have the biggest impact on a system. The problem is that they tend to want to push that lever very hard *in the wrong direction*. For example, economic growth is important, but we should aim for *less* of it[^1].
+In Systems Thinking it's said that people often know which lever would have the biggest impact on a system. The problem is that they tend to want to push that lever very hard *in the wrong direction*. For example, economic growth is important, but we should aim for *less* of it. [^1]
+
+[^1]: This, and other counterintuive results, are explained in "Thinking in Systems : A Primer".
+
 
 In my constant quest for consistency, I was doing the same thing.
 
@@ -183,10 +183,4 @@ So far I've described this as simply a "productivity" system. But it's more than
 {{% hltext %}}Having self-trust means you can stop worrying about *how* to keep your promises, and spend more time deciding *what* promises you want to keep.{{% /hltext %}}
 
 
----
-
-#### Footnotes & Further Reading
-
-[^1] : This, and other counterintuive results, are explained in "Thinking in Systems : A Primer".
-
-[^2] : So far, I've capped the **Delay Dates** to 3 months. That means that, in the worst case scenario that I decide a habit or rule isn't working for me at all, then I have to bear with it for 3 months at most. It's been exceedingly rare for this to happen, because habits that *reach* the cap of 3 months have *proved their value* for at least that long.
+[^2]: So far, I've capped the Delay Dates to 3 months. That means that, in the worst case scenario that I decide a habit or rule isn't working for me at all, then I have to bear with it for 3 months at most. It's been exceedingly rare for this to happen, because habits that *reach* the cap of 3 months have *proved their value* for at least that long.
