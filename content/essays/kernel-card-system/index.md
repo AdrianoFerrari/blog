@@ -1,8 +1,9 @@
 ---
-title: "A Habit System for Consistency & Flexibility"
+title: "Achieving Consistency through Flexibility"
 date: 2019-07-18T09:06:12-04:00
 draft: true
 ---
+
 # Backstory
 
 I've been hopping from one productivity system to another for years:
@@ -26,8 +27,8 @@ All this leap-frogging has just been perfectionism, of course. I know that more 
 > "Nothing hinders a cure so much as frequent changes of treatment; a wound will not heal over if it is being made the subject of experiments with different ointments; a plant which is frequently moved never grows strong. Nothing is so useful that it can be of any service in the mere passing."<br>
 > &mdash; *Seneca, Letter II*
 
-*How bad has it been, really?*<br>
-Well, I recently found my New Year's resolutions from when I was 15:
+*But how bad has it been for me, really?*<br>
+Well, I recently found my New Year's resolutions from when I turned 15:
 
 <!--more-->
 
@@ -45,9 +46,10 @@ The key was realizing that I over all these years, I was focusing on **exactly t
 
 ## The Complement to Consistency
 
-In Systems Thinking it's said that people often know which lever would have the biggest impact on a system. The problem is that they tend to want to push that lever very hard *in the wrong direction*. For example, economic growth is important, but we should aim for *less* of it. [^1]
+> "Although people deeply involved in a system often know intuitively where to find leverage points, more often than not they push the change in the *wrong direction*."<br>
+> &mdash; *Donella H. Meadows, Thinking in Systems : A Primer*[^1].
 
-[^1]: This, and other counterintuive results, are explained in "Thinking in Systems : A Primer".
+[^1]: For example, economic growth is important, but we should aim for *less* of it. This book is great for thinking more broadly about the systems we live in, and for gaining some humility about how to change them. Leverage points to improve systems do exist, but they can take a great deal of effort to find, and often require us to do the opposite of what we'd expect.
 
 
 In my constant quest for consistency, I was doing the same thing.
@@ -83,19 +85,44 @@ The system has an answer for me:
 
 So now, in order to drop my writing habit, I'd have to believe for *24 days in a row* that I'm deriving *no value* from my daily writing. This neatly resolves the tension : I *can* change, but I must *wait*. If the desire to change is a result of "shiny object syndrome" rather than any inherent issues with my current habit, I end up keeping the habit. If it turns out that it actually *is* a foolish consistency, then I just wait the prescribed number of days and I'm off the hook *guilt-free*.
 
+As we'll see later, this **Delay Date** starts out small and grows slowly.
+
 I won't go into more detail, since the originators of this idea (the developers of [Beeminder](https://beeminder.com)) have done so many times. I encourage you to check out their writing on what they call the "[Akrasia Horizon](https://blog.beeminder.com/flexbind/)" for more.
 
 ### Flexibility to Fail
 
-{{% hltext %}}To handle failure, allow a *specific number* of failures within a *given timeframe*.{{% /hltext %}}
+{{% hltext %}}To handle failure, *allow a specific number of failures* within a *given timeframe*.{{% /hltext %}}
 
-By pairing these "Allowed Failures" with the "Delay Date" idea above, we can also grow the timeframe slowly. That means your habits and rules are lenient at first, but become more strict as time goes on.
+Before having **Allowed Failures**, *any* slip-up would feel like a total system failure. The longer your perfect streak of success, the harder the fall once it ends. With "Allowed Failures", slip-ups are expected and handled gracefully.
 
-An important element of this, as we'll see, is that once you recover from a failure or slip-up, there is *no record of it* going forward.
+By pairing this with the "Delay Date" idea above, we can also grow the timeframe slowly. That means your habits and rules are lenient at first, but become more strict as time goes on.
+
+An important element of this, as we'll see, is that once you recover from a failure, there is *no record of it* going forward.
+
+## Why This System Works
+
+Before getting into the specifics of *How* the system works, I'd like to explain *Why*.
+
+1. **Commitments grow over time**. The Delay Date is pushed forward every day, which is designed to keep you committed to your habit for as long as you've *already* committed to it. If you've been committed for 4 days, then you're on the hook for the next 4 days. If you've stuck with a habit for 45 days, you're stuck with it for the next 45 days. To preserve some long-term flexibility, I cap this at 3 months[^2].
+2. **Adding new habits is easy**. Related to the above, there's no fear of commitment to prevent you from experimenting with new habits. Habits start out with a very short committment time, so you can try new things without sacrificing the consistency of the habits and rules that are working well for you.
+3. **Capped Failure Rate**. Regenerating the "Allowed Failures" gives you the benefit of streaks (you can't fail *too* often in a row), without the main drawback (all-or-nothing thinking).
+4. **Present-focused**. Each day, your habit work only depends on looking at the previous day's card. This keeps your focus on what matters (i.e. what you need to do *today*), and not on irrelevant and discouraging information such as how long the streak you just broke was.
+5. **Learning from Mistakes**. Because failures are both allowed and expected, you can use your mistakes as learning opportunities. Whenever I fail one of my habits, I try to figure out why, and take steps to prevent that same type of failure in the future.
+6. **Handwritten**. This makes it simple, portable, device-independent, and reliable. It's also flexible, so you can add important daily reminders/affirmations/quotes, as I do. Finally, it's limited in size, so you are forced to limit your daily requirements to a reasonable amount.
+7. **Meta-system**. It's a simple enough simple that it can serve as the scaffolding for anything else you want to try. I've named the system after the Kernel of an operating system, but in fact a "bootloader" might be a better metaphor, since it's a simple system that can *boot up* more sophisticated systems.
+
+I won't lie to myself and pretend this system is perfect. I do see, though, how it can be a container for any other system. The goal, after all, is to stick to *something* long enough to start getting benefits from it.
+
+So far I've described this as simply a "productivity" system. But it's more than just getting things done. It's a way to believe you can and will keep the promises you make to yourself.
+
+{{% hltext %}}Having self-trust means you can stop worrying about *how* to keep your promises, and spend more time deciding *what* promises you want to keep.{{% /hltext %}}
+
+If this is something you want to be able to do, read on to the system description below.
+
+
+[^2]: Capping the Delay Date to 3 months means that, in the worst case scenario that I decide a habit or rule isn't working for me at all, then I have to bear with it for 3 months at most. It's been exceedingly rare for this to happen, because habits that *reach* the cap of 3 months have *proved their value* for at least that long.
 
 ---
-
-With these two methods, we can design a system that has a balance between consistency and flexibility:
 
 
 # The "Kernel Card" System
@@ -140,12 +167,16 @@ Adding a new habit is as simple as writing it out, and setting the **Delay Date*
 
 ### 2. Continuing a Habit
 
-Every day, copy over the habits that you have, and add `2` to the **Delay Date**:
+Every day, copy over the habits that you have, and add `2` to the **Delay Date**: 
 {{< figure src="kernel-card-continue-rule.png" >}}
+
+That's +1 because you've moved forward a day, and another +1 to push the Delay Date forward.
+
+Once you reach a predetermined maximum (I use 3 months), you can stop increasing the Delay Date, and optionally stop writing it out each day. When I see a long-standing habit with no Delay Date, I know it's simply "3 months from today".
 
 ### 3. Allowed Failure
 
-When *(not if)* you slip up with your habit, you mark it with an `X`, and on the following day copy it over with one fewer **Allowed Failure**. You also copy over the **Delay Date** from the day you failed. This becomes the date that you will "recover" from this failure:
+When you slip up with your habit, you mark it with an `X`, and on the following day copy it over with one fewer **Allowed Failure**. You also copy over the **Delay Date** from the day you failed. This becomes the date that you will "recover" from this failure:
 
 {{< figure src="kernel-card-fail-rule.png" >}}
 
@@ -166,21 +197,3 @@ If a drop date arrives, **and the drop note is still there**, you can drop the h
 At **any point** up to and including the drop date, you can decide to keep the habit. If you do, simply cross off the drop date, and don't copy it over the next day.
 
 
-## Why it Works
-
-1. **Commitments grow over time**. The main effect of increasing the **Delay Date** by two every day, is to commit you to your habit for as long as you've *already* committed to it. If you've been committed for 3 days, then you're on the hook for the next 3 days. If you've stuck with a habit for 45 days, you're stuck with it for the next 45 days[^2].
-2. **Adding new habits is easy**. Related to the above, there's no fear of commitment to prevent you from experimenting with new habits. You can to try more things, without sacrificing the consistency of the habits and rules that are working well for you.
-3. **Capped Failure Rate**. Regenerating "allowed slips" gives you the benefit of streaks (you can't fail *too* often in a row), without the main drawback (all-or-nothing thinking).
-4. **Present-focused**. Each day, your habit work only depends on looking at the previous day's card. This keeps your focus on what matters (i.e. what you need to do *today*), and not on irrelevant and discouraging information such as how long the streak you just broke was.
-5. **Learning from Mistakes**. Because failures are both allowed and expected, you can use your mistakes as learning opportunities. Whenever I fail one of my habits, I try to figure out why, and take steps to prevent that same type of failure in the future.
-6. **Handwritten**. This makes it simple, portable, device-independent, and reliable. It's also flexible, so you can add important daily reminders/affirmations/quotes, as I do. Finally, it's limited in size, so you are forced to limit your daily requirements to a reasonable amount.
-7. **Meta-system**. It's a simple enough simple that it can serve as the scaffolding for anything else you want to try. It's named after the Kernel of an operating system, but in fact a "bootloader" might be a better metaphor, since it's a simple system that can *boot up* more sophisticated systems.
-
-I won't lie to myself and pretend this system is perfect. I do see, though, how it can be a container for any other system. The goal, after all, is to stick to *something* long enough to start getting benefits from it.
-
-So far I've described this as simply a "productivity" system. But it's more than just getting things done. It's a way to believe you can and will keep the promises you make to yourself.
-
-{{% hltext %}}Having self-trust means you can stop worrying about *how* to keep your promises, and spend more time deciding *what* promises you want to keep.{{% /hltext %}}
-
-
-[^2]: So far, I've capped the Delay Dates to 3 months. That means that, in the worst case scenario that I decide a habit or rule isn't working for me at all, then I have to bear with it for 3 months at most. It's been exceedingly rare for this to happen, because habits that *reach* the cap of 3 months have *proved their value* for at least that long.
