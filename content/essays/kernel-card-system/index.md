@@ -3,7 +3,6 @@ title: "Achieving Consistency through Flexibility"
 date: 2019-07-18T09:06:12-04:00
 draft: true
 ---
-
 # Backstory
 
 For years I've hopped from one productivity system to another:
@@ -25,7 +24,7 @@ I even designed my own productivity software. "[HabitShaper](https://www.youtube
 All this leap-frogging has just been perfectionism, of course. I know that more important than which system I choose is **whether I stick to any system** long enough to see the benefits. Seneca said it best:
 
 > "Nothing hinders a cure so much as frequent changes of treatment; a wound will not heal over if it is being made the subject of experiments with different ointments; a plant which is frequently moved never grows strong. Nothing is so useful that it can be of any service in the mere passing."<br>
-> &mdash; *Seneca, Letter II*
+> &mdash; *Seneca, "Letters from a Stoic" (c. 65 AD), Letter II*
 
 *But how bad has it been for me, really?*<br>
 Well, I recently found my New Year's resolutions from when I turned 15:
@@ -47,7 +46,7 @@ The key was realizing that I over all these years, I was focusing on **exactly t
 ## The Complement to Consistency
 
 > "Although people deeply involved in a system often know intuitively where to find leverage points, more often than not they push the change in the *wrong direction*."<br>
-> &mdash; *Donella H. Meadows, Thinking in Systems : A Primer*{{% fn 1 %}}.
+> &mdash; *Donella H. Meadows, "Thinking in Systems : A Primer" (2015)* {{% fn 1 %}}.
 
 In my constant quest for consistency, I was definitely pushing too hard in the wrong direction. What I needed wasn't *more* consistency, it was *less* of it!
 
@@ -60,7 +59,7 @@ Doing that lowered my confidence in that particular system, and in myself. Worse
 Perfectionism aside, it's also entirely *rational* to want a system to be flexible. I've been through a great number of life changes, and I know that sticking to old behaviors and goals isn't always sensible. Otherwise we might get stuck in "foolish consistencies":
 
 > "A foolish consistency is the hobgoblin of little minds... Speak what you think now in hard words, and tomorrow speak what tomorrow thinks in hard words again, though it contradict every thing you said today."<br>
-> &mdash; *Ralph Waldo Emerson, Self-Reliance*
+> &mdash; *Ralph Waldo Emerson, "Self-Reliance" (1841)*
 
 
 But isn't a habit-forming system that allows you to change your mind at will a *total contradiction*?<br>
@@ -117,6 +116,7 @@ So far I've described this as simply a "productivity" system. But it's more than
 {{% hltext %}}Having self-trust means you can stop worrying about *how* to keep your promises, and spend more time deciding *what* promises you want to keep.{{% /hltext %}}
 
 <div style="text-align:center">***</div>
+<br>
 
 ---
 
@@ -127,6 +127,7 @@ So far I've described this as simply a "productivity" system. But it's more than
 </ol>
 
 ---
+<br>
 <small>[What follows is a full description of the system, if you'd like to try it.]</small>
 
 
