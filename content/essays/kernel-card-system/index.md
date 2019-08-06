@@ -6,7 +6,7 @@ draft: true
 
 # Backstory
 
-I've been hopping from one productivity system to another for years:
+For years I've hopped from one productivity system to another:
 
 * Seinfeld Chains
 * GTD
@@ -20,7 +20,7 @@ I've been hopping from one productivity system to another for years:
 * Beeminder
 * *and many, many more*
 
-I've even designed my own productivity software. "[HabitShaper](https://www.youtube.com/watch?v=Wzlw-vrG1-E)", which is now abandonded. And "Stride", a task manager based on how CPU's juggle and complete tasks, which *\*ahem\** I never completed.
+I even designed my own productivity software. "[HabitShaper](https://www.youtube.com/watch?v=Wzlw-vrG1-E)", which is now abandonded. And "Stride", a task manager based on how CPU's juggle and complete tasks, which *\*ahem\** I never completed.
 
 All this leap-frogging has just been perfectionism, of course. I know that more important than which system I choose is **whether I stick to any system** long enough to see the benefits. Seneca said it best:
 
@@ -47,29 +47,26 @@ The key was realizing that I over all these years, I was focusing on **exactly t
 ## The Complement to Consistency
 
 > "Although people deeply involved in a system often know intuitively where to find leverage points, more often than not they push the change in the *wrong direction*."<br>
-> &mdash; *Donella H. Meadows, Thinking in Systems : A Primer*[^1].
+> &mdash; *Donella H. Meadows, Thinking in Systems : A Primer*{{% fn 1 %}}.
 
-[^1]: For example, economic growth is important, but we should aim for *less* of it. This book is great for thinking more broadly about the systems we live in, and for gaining some humility about how to change them. Leverage points to improve systems do exist, but they can take a great deal of effort to find, and often require us to do the opposite of what we'd expect.
+In my constant quest for consistency, I was definitely pushing too hard in the wrong direction. What I needed wasn't *more* consistency, it was *less* of it!
 
-
-In my constant quest for consistency, I was doing the same thing.
-
-{{% hltext %}}What I needed wasn't *more consistency*, it was *more flexibility*.{{% /hltext %}}
+{{% hltext %}}In other words, what I needed was *more flexibility*.{{% /hltext %}}
 
 In every other system I'd tried, the only way to change my mind was by admitting defeat and starting over, or by abandoning the system altogether. In other words, to change you have to go through a system failure : either **break a streak** or **give up on the habit**.
 
 Doing that lowered my confidence in that particular system, and in myself. Worse, I'd been in this cycle so many times that I eventually became afraid of even *starting* a committment (for fear of failing yet again).
 
-Perfectionism aside, it's also entirely *rational* to want a system to be flexible. I've been through a great number of life changes, and I know that sticking to old behaviors and goals isn't always sensible. It's important not to get stuck in "foolish consistencies":
+Perfectionism aside, it's also entirely *rational* to want a system to be flexible. I've been through a great number of life changes, and I know that sticking to old behaviors and goals isn't always sensible. Otherwise we might get stuck in "foolish consistencies":
 
-> "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines... Speak what you think now in hard words, and tomorrow speak what tomorrow thinks in hard words again, though it contradict every thing you said today."<br>
+> "A foolish consistency is the hobgoblin of little minds... Speak what you think now in hard words, and tomorrow speak what tomorrow thinks in hard words again, though it contradict every thing you said today."<br>
 > &mdash; *Ralph Waldo Emerson, Self-Reliance*
 
 
 But isn't a habit-forming system that allows you to change your mind at will a *total contradiction*?<br>
-Not necessarily. With the right kinds of flexibility, we can have both.
+Not necessarily. With the right design, we can have both.
 
-### Flexibility to Change
+### Design for Change
 
 {{% hltext %}}To have both flexibility and consistency, simply introduce a *delay* between the *decision* to change and the *act* of changing.{{% /hltext %}}
 
@@ -85,44 +82,53 @@ The system has an answer for me:
 
 So now, in order to drop my writing habit, I'd have to believe for *24 days in a row* that I'm deriving *no value* from my daily writing. This neatly resolves the tension : I *can* change, but I must *wait*. If the desire to change is a result of "shiny object syndrome" rather than any inherent issues with my current habit, I end up keeping the habit. If it turns out that it actually *is* a foolish consistency, then I just wait the prescribed number of days and I'm off the hook *guilt-free*.
 
-As we'll see later, this **Delay Date** starts out small and grows slowly.
+As we'll see later, this **Delay Date** can be designed to start out small and grow slowly, allowing you to *commit gradually*.
 
-I won't go into more detail, since the originators of this idea (the developers of [Beeminder](https://beeminder.com)) have done so many times. I encourage you to check out their writing on what they call the "[Akrasia Horizon](https://blog.beeminder.com/flexbind/)" for more.
+<small>
+For more ideas on "change delays", I encourage you to check out Beeminder's posts on what they call the "[Akrasia Horizon](https://blog.beeminder.com/flexbind/)", which is where I first learned this technique.
+</small>
 
-### Flexibility to Fail
+### Design for Failure
 
-{{% hltext %}}To handle failure, *allow a specific number of failures* within a *given timeframe*.{{% /hltext %}}
+{{% hltext %}}To handle failure, *allow a fixed number of failures* within a *given timeframe*.{{% /hltext %}}
 
-Before having **Allowed Failures**, *any* slip-up would feel like a total system failure. The longer your perfect streak of success, the harder the fall once it ends. With "Allowed Failures", slip-ups are expected and handled gracefully.
+Before having **Allowed Failures**, *any* slip-up would feel like a total system failure. The longer your perfect streak of success is, the harder you'll fall once it ends. With allowed failures, slip-ups are expected and handled gracefully.
 
-By pairing this with the "Delay Date" idea above, we can also grow the timeframe slowly. That means your habits and rules are lenient at first, but become more strict as time goes on.
+By pairing this with the "Change Delay" idea above, we can also grow the timeframe slowly. That means your habits and rules are lenient at first, but become more strict as time goes on.
 
-An important element of this, as we'll see, is that once you recover from a failure, there is *no record of it* going forward.
+An important element of this, as we'll see, is to design it so that once you recover from a failure, there is *no record of it* going forward.
 
 ## Why This System Works
 
 Before getting into the specifics of *How* the system works, I'd like to explain *Why*.
 
-1. **Commitments grow over time**. The Delay Date is pushed forward every day, which is designed to keep you committed to your habit for as long as you've *already* committed to it. If you've been committed for 4 days, then you're on the hook for the next 4 days. If you've stuck with a habit for 45 days, you're stuck with it for the next 45 days. To preserve some long-term flexibility, I cap this at 3 months[^2].
-2. **Adding new habits is easy**. Related to the above, there's no fear of commitment to prevent you from experimenting with new habits. Habits start out with a very short committment time, so you can try new things without sacrificing the consistency of the habits and rules that are working well for you.
+1. **Commit gradually**. The Change Delay Date is pushed forward every day, which is designed to keep you committed to your habit for as long as you've *already* committed to it. If you've been committed for six days, then you're on the hook for the next six days. If you've stuck with a habit for 45 days, you're stuck with it for the next 45 days. To preserve some long-term flexibility, I cap this at 3 months {{% fn 2 %}}.
+2. **Add new habits easily**. Related to the above, there's no fear of commitment to prevent you from experimenting with new habits. Habits start out with a very short committment time, so you can try new things without sacrificing the consistency of the habits and rules that are working well for you.
 3. **Capped Failure Rate**. Regenerating the "Allowed Failures" gives you the benefit of streaks (you can't fail *too* often in a row), without the main drawback (all-or-nothing thinking).
-4. **Present-focused**. Each day, your habit work only depends on looking at the previous day's card. This keeps your focus on what matters (i.e. what you need to do *today*), and not on irrelevant and discouraging information such as how long the streak you just broke was.
-5. **Learning from Mistakes**. Because failures are both allowed and expected, you can use your mistakes as learning opportunities. Whenever I fail one of my habits, I try to figure out why, and take steps to prevent that same type of failure in the future.
+4. **Present-focused**. Each day, your habit work only depends on looking at the previous day's data. This keeps your focus on what matters (i.e. what you need to do *today*), and not on irrelevant and discouraging information such as how long the streak you just broke was.
+5. **Learn from Mistakes**. Because failures are both allowed and expected, you can use your mistakes as learning opportunities. Whenever I fail one of my habits, I try to figure out why, and take steps to prevent that same type of failure in the future.
 6. **Handwritten**. This makes it simple, portable, device-independent, and reliable. It's also flexible, so you can add important daily reminders/affirmations/quotes, as I do. Finally, it's limited in size, so you are forced to limit your daily requirements to a reasonable amount.
-7. **Meta-system**. It's a simple enough simple that it can serve as the scaffolding for anything else you want to try. I've named the system after the Kernel of an operating system, but in fact a "bootloader" might be a better metaphor, since it's a simple system that can *boot up* more sophisticated systems.
+7. **Meta-system**. It's simple enough that it can serve as the scaffolding for anything else you want to try. I've named the system after the Kernel of an operating system, but in fact a "bootloader" might be a better metaphor, since it's a simple system that can *boot up* more complex ones.
 
-I won't lie to myself and pretend this system is perfect. I do see, though, how it can be a container for any other system. The goal, after all, is to stick to *something* long enough to start getting benefits from it.
+I won't lie to myself and pretend this system is perfect. But I have no reason to switch to a different one, because it can *contain* any other system within it. The goal, after all, is to stick to *something* long enough to start getting benefits from it.
 
 So far I've described this as simply a "productivity" system. But it's more than just getting things done. It's a way to believe you can and will keep the promises you make to yourself.
 
 {{% hltext %}}Having self-trust means you can stop worrying about *how* to keep your promises, and spend more time deciding *what* promises you want to keep.{{% /hltext %}}
 
-If this is something you want to be able to do, read on to the system description below.
-
-
-[^2]: Capping the Delay Date to 3 months means that, in the worst case scenario that I decide a habit or rule isn't working for me at all, then I have to bear with it for 3 months at most. It's been exceedingly rare for this to happen, because habits that *reach* the cap of 3 months have *proved their value* for at least that long.
+<div style="text-align:center">***</div>
 
 ---
+
+#### Footnotes
+<ol>
+{{% fntext 1 %}}For example, economic growth is important, but we should aim for *less* of it. This book is great for thinking more broadly about the systems we live in, and for gaining some humility about how to change them. Leverage points to improve systems do exist, but they can take a great deal of effort to find, and often require us to do the opposite of what we'd expect.{{% /fntext %}}
+{{% fntext 2 %}}Capping the Delay Date to 3 months means that, in the worst case scenario that I decide a habit or rule isn't working for me at all, then I have to bear with it for 3 months at most. It's been exceedingly rare for this to happen, because habits that *reach* the cap of 3 months have *proved their value* for at least that long.{{% /fntext %}}
+</ol>
+
+---
+<small>[What follows is a full description of the system, if you'd like to try it.]</small>
+
 
 
 # The "Kernel Card" System
@@ -196,4 +202,10 @@ If a drop date arrives, **and the drop note is still there**, you can drop the h
 
 At **any point** up to and including the drop date, you can decide to keep the habit. If you do, simply cross off the drop date, and don't copy it over the next day.
 
+## System Summary
+The rules may seem complicated, but they're easy to internalize and to follow in practice. The core of it simply involves copying the previous day's card with some minor changes.
 
+{{% hltext %}}It shouldn't take you more than a minute a day to get started.{{% /hltext %}}
+
+If you're someone who's hopped from system to system, give it a try.<br>
+It's flexible, so you can always change your mind later :).
