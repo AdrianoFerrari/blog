@@ -1,5 +1,5 @@
 ---
-title: "Achieving Consistency through Flexibility"
+title: "A \"Gradual Commitment\" Productivity System"
 date: 2019-07-18T09:06:12-04:00
 draft: true
 ---
@@ -31,7 +31,8 @@ Well, I recently found my New Year's resolutions from when I turned 15:
 
 <!--more-->
 
-{{< figure src="resolutions-1999.jpg" width="500px" >}}
+{{< load-photoswipe >}}
+{{< figure src="resolutions-1999.jpg" width="500px">}}
 
 There was a lot for me to parse in this list, including my atrocious handwriting. But one thing was clear to me:
 
