@@ -1,7 +1,6 @@
 ---
 title: "A \"Gradual Commitment\" Productivity System"
 date: 2019-07-18T09:06:12-04:00
-draft: true
 ---
 # Backstory
 
@@ -24,7 +23,7 @@ I even designed my own productivity software. "[HabitShaper](https://www.youtube
 All this leap-frogging has just been perfectionism, of course. I know that more important than which system I choose is **whether I stick to any system** long enough to see the benefits. Seneca said it best:
 
 > "Nothing hinders a cure so much as frequent changes of treatment; a wound will not heal over if it is being made the subject of experiments with different ointments; a plant which is frequently moved never grows strong. Nothing is so useful that it can be of any service in the mere passing."<br>
-> &mdash; *Seneca, "Letters from a Stoic" (c. 65 AD), Letter II*
+> &mdash; *Seneca, Letter II, "Letters from a Stoic" (c. 65 AD)*
 
 *But how bad has it been for me, really?*<br>
 Well, I recently found my New Year's resolutions from when I turned 15:
@@ -100,21 +99,21 @@ An important element of this, as we'll see, is to design it so that once you rec
 
 ## Why This System Works
 
-Before getting into the specifics of *How* the system works, I'd like to explain *Why*.
+I've included a complete description of the system [below](#the-kernel-card-system). But before getting into the specifics of *How* the system works, I'd like to explain *Why*.
 
-1. **Commit gradually**. The Change Delay Date is pushed forward every day, which is designed to keep you committed to your habit for as long as you've *already* committed to it. If you've been committed for six days, then you're on the hook for the next six days. If you've stuck with a habit for 45 days, you're stuck with it for the next 45 days. To preserve some long-term flexibility, I cap this at 3 months {{% fn 2 %}}.
+1. **Allows you to Commit Gradually**. The Change Delay Date is pushed forward every day, which is designed to keep you committed to your habit for as long as you've *already* committed to it. If you've been committed for six days, then you're on the hook for the next six days. If you've stuck with a habit for 45 days, you're stuck with it for the next 45 days. To preserve some long-term flexibility, I cap this at 3 months {{% fn 2 %}}.
 2. **Add new habits easily**. Related to the above, there's no fear of commitment to prevent you from experimenting with new habits. Habits start out with a very short committment time, so you can try new things without sacrificing the consistency of the habits and rules that are working well for you.
 3. **Capped Failure Rate**. Regenerating the "Allowed Failures" gives you the benefit of streaks (you can't fail *too* often in a row), without the main drawback (all-or-nothing thinking).
 4. **Present-focused**. Each day, your habit work only depends on looking at the previous day's data. This keeps your focus on what matters (i.e. what you need to do *today*), and not on irrelevant and discouraging information such as how long the streak you just broke was.
 5. **Learn from Mistakes**. Because failures are both allowed and expected, you can use your mistakes as learning opportunities. Whenever I fail one of my habits, I try to figure out why, and take steps to prevent that same type of failure in the future.
-6. **Handwritten**. This makes it simple, portable, device-independent, and reliable. It's also flexible, so you can add important daily reminders/affirmations/quotes, as I do. Finally, it's limited in size, so you are forced to limit your daily requirements to a reasonable amount.
+6. **Handwritten**. This makes it simple, portable, device-independent, and reliable. It's also flexible, so you can add important daily reminders/affirmations/quotes, as I do. Finally, it's limited in size, so you are forced to keep your list small and manageable.
 7. **Meta-system**. It's simple enough that it can serve as the scaffolding for anything else you want to try. I've named the system after the Kernel of an operating system, but in fact a "bootloader" might be a better metaphor, since it's a simple system that can *boot up* more complex ones.
 
-I won't lie to myself and pretend this system is perfect. But I have no reason to switch to a different one, because it can *contain* any other system within it. The goal, after all, is to stick to *something* long enough to start getting benefits from it.
+It's not perfect, of course. But I have no reason to switch to a different system anymore, because this one can *contain* any other system within it. The goal, after all, is to stick to *something* long enough to start getting benefits from it.
 
-So far I've described this as simply a "productivity" system. But it's more than just getting things done. It's a way to believe you can and will keep the promises you make to yourself.
+So far I've been calling this a "productivity system". But it's more than just getting things done. It's a way to **believe in the promises you make to yourself**. It's about trusting yourself.
 
-{{% hltext %}}Having self-trust means you can stop worrying about *how* to keep your promises, and spend more time deciding *what* promises you want to keep.{{% /hltext %}}
+{{% hltext %}}With self-trust you can stop worrying about *how* to keep your promises, and focus instead on deciding *what* promises you want to make.{{% /hltext %}}
 
 <div style="text-align:center">***</div>
 <br>
@@ -124,12 +123,11 @@ So far I've described this as simply a "productivity" system. But it's more than
 #### Footnotes
 <ol>
 {{% fntext 1 %}}For example, economic growth is important, but we should aim for *less* of it. This book is great for thinking more broadly about the systems we live in, and for gaining some humility about how to change them. Leverage points to improve systems do exist, but they can take a great deal of effort to find, and often require us to do the opposite of what we'd expect.{{% /fntext %}}
-{{% fntext 2 %}}Capping the Delay Date to 3 months means that, in the worst case scenario that I decide a habit or rule isn't working for me at all, then I have to bear with it for 3 months at most. It's been exceedingly rare for this to happen, because habits that *reach* the cap of 3 months have *proved their value* for at least that long.{{% /fntext %}}
+{{% fntext 2 %}}Capping the Delay Date to 3 months means that if I decide a habit or rule isn't working for me at all, then the longest I have to bear with it is 3 months. It's been exceedingly rare for this to happen, because habits that *reach* the cap of 3 months have *proved their value* for at least that long.{{% /fntext %}}
 </ol>
 
 ---
 <br>
-<small>[What follows is a full description of the system, if you'd like to try it.]</small>
 
 
 
@@ -204,10 +202,16 @@ If a drop date arrives, **and the drop note is still there**, you can drop the h
 
 At **any point** up to and including the drop date, you can decide to keep the habit. If you do, simply cross off the drop date, and don't copy it over the next day.
 
-## System Summary
+## Getting Started
 The rules may seem complicated, but they're easy to internalize and to follow in practice. The core of it simply involves copying the previous day's card with some minor changes.
 
 {{% hltext %}}It shouldn't take you more than a minute a day to get started.{{% /hltext %}}
 
-If you're someone who's hopped from system to system, give it a try.<br>
-It's flexible, so you can always change your mind later :).
+If you're someone who's hopped from system to system, give it a try:
+
+1. Grab an index card (or folded sheet of paper), and write the date at top right.
+3. Write `[ ] Kernel card by noon (date_in_2_days, 3/3)`
+4. [Add](#1-adding-a-new-habit) one other small habit or action you might want to do regularly.
+5. Do the same the next day, but [update](#2-continuing-a-habit) the dates.
+
+And remember, it's flexible, so you can always change your mind later :).
